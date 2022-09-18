@@ -27,3 +27,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosugges
 cat .zshrc > ~/.zshrc
 
 ```
+
+### images
+
+![image showing how the configured zsh prompt looks](/images/zsh-example.png)
