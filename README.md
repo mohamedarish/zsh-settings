@@ -19,3 +19,11 @@ My zshrc file and all commands needed to set it up
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 
 ```
+
+- copy contents using
+
+```sh
+
+cat .zshrc > ~/.zshrc
+
+```
