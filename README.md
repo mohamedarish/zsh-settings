@@ -1,10 +1,10 @@
 # zsh-settings
+
 My zshrc file and all commands needed to set it up
 
+## Steps to set up after copying
 
-# Steps to set up after copying
-
-- run 
+- run
 
 ```sh
 
